@@ -5,3 +5,5 @@ Set of projects developed during the course of BDLE, bases de données large éc
 Aggregation and Data analysis with Apache PySpark
 
 The projects are developed in French.
+
+The first project has a .pdf file explaining the reasoning behind every exercise, element not required for the second project.
